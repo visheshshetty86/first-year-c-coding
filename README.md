@@ -1,1 +1,1 @@
-# first-year-c-coding
+c-coding
